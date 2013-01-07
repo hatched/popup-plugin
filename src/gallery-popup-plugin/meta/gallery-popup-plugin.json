@@ -1,7 +1,7 @@
 {
     "gallery-popup-plugin": {
         "requires": [
-            "yui-base"
+            "plugin", "widget-position", "widget-position-align", "widget-autohide"
         ]
     }
 }
