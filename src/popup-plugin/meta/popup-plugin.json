@@ -1,0 +1,7 @@
+{
+    "popup-plugin": {
+        "requires": [
+            "yui-base"
+        ]
+    }
+}

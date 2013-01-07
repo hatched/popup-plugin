@@ -1,0 +1,10 @@
+{
+    "name": "popup-plugin",
+    "builds": {
+        "popup-plugin": {
+            "jsfiles": [
+                "js/popup-plugin.js"
+            ]
+        }
+    }
+}
