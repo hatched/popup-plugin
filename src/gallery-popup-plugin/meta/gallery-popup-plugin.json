@@ -1,5 +1,5 @@
 {
-    "popup-plugin": {
+    "gallery-popup-plugin": {
         "requires": [
             "yui-base"
         ]

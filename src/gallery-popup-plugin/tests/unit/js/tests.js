@@ -1,6 +1,6 @@
 YUI.add('module-tests', function(Y) {
 
-    var suite = new Y.Test.Suite('popup-plugin');
+    var suite = new Y.Test.Suite('gallery-popup-plugin');
 
     suite.add(new Y.Test.Case({
         name: 'Automated Tests',

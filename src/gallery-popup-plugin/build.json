@@ -1,0 +1,10 @@
+{
+    "name": "gallery-popup-plugin",
+    "builds": {
+        "gallery-popup-plugin": {
+            "jsfiles": [
+                "js/gallery-popup-plugin.js"
+            ]
+        }
+    }
+}

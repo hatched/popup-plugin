@@ -1,0 +1,11 @@
+{
+    "name"       : "gallery-popup-plugin",
+    "displayName": "Gallery: gallery-popup-plugin",
+    "description": "*Summary Goes Here*",
+    "author"     : [ "hatch" ],
+    "use"        : [ "gallery-popup-plugin" ],
+
+    "tags": [ "gallery" ],
+
+    "examples": []
+}
