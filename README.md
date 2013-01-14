@@ -46,9 +46,9 @@ To Do
 -----
 *   Finish the plugin
 *   Look into refactoring widget positioning modules to use in this module
-        *   http://yuilibrary.com/projects/yui3/ticket/2533054
-        *   http://yuilibrary.com/projects/yui3/ticket/2531095
-        *   http://yuilibrary.com/projects/yui3/ticket/2531355
+    *   http://yuilibrary.com/projects/yui3/ticket/2533054
+    *   http://yuilibrary.com/projects/yui3/ticket/2531095
+    *   http://yuilibrary.com/projects/yui3/ticket/2531355
 
 
 Feature request, bug reports and pull requests welcome!
